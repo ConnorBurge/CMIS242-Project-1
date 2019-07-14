@@ -1,0 +1,17 @@
+2014, Employee, Smith, John, 2000,0
+2015, Salesman, Jones, Bill, 3000,100000
+2014, Executive, Bush, George, 5000,55
+2015, Employee, Brevis, Philomenia, 2055,0
+2014, Employee, Fall, Beatrice, 1870,0
+2015, Executive, Washington, Clarie, 4050,45
+2015, Employee, Poole, Albert, 2150, 0
+2014, Employee, Able, Paul, 2120, 0
+2015, Salesman, Naismith, Frederick, 2100, 90000
+2015, Employee, Zane, Xavier, 30100, 0
+2014, Salesman, Caldwell, Millicent, 2800, 120000
+2015, Employee, Peters, Clovis, 1800, 0
+2014, Employee, Syung, Susan, 1800, 0
+2015, Employee, Jones, Redding, 2090, 0
+2014, Salesman, Jones, Bill, 3000, 100000
+2014, Employee, Marshall, Horace, 2300, 0
+2015, Executive, Tinker, Willieam, 5590, 59
